@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskGame", "TaskGame.csproj", "{B4A30D51-5DA4-4419-9DBA-FBC6AC863244}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGameCases", "..\TestGamecases\TestGameCases.csproj", "{36EBA3C6-3326-4F6E-A145-90C78D884587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A30D51-5DA4-4419-9DBA-FBC6AC863244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A30D51-5DA4-4419-9DBA-FBC6AC863244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A30D51-5DA4-4419-9DBA-FBC6AC863244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A30D51-5DA4-4419-9DBA-FBC6AC863244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EBA3C6-3326-4F6E-A145-90C78D884587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EBA3C6-3326-4F6E-A145-90C78D884587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EBA3C6-3326-4F6E-A145-90C78D884587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EBA3C6-3326-4F6E-A145-90C78D884587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3D17D2-4584-4357-8511-17C08573B9D4}
+	EndGlobalSection
+EndGlobal
